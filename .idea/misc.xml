@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Wei/app/src/main/res/layout/activity_main.xml" value="0.278125" />
+        <entry key="..\:/Wei/app/src/main/res/layout/fa.xml" value="0.2947916666666667" />
+        <entry key="..\:/Wei/app/src/main/res/layout/tong.xml" value="0.2947916666666667" />
+        <entry key="..\:/Wei/app/src/main/res/layout/tou.xml" value="0.2947916666666667" />
+        <entry key="..\:/Wei/app/src/main/res/layout/wei.xml" value="0.2947916666666667" />
+        <entry key="..\:/Wei/app/src/main/res/layout/wo.xml" value="0.2947916666666667" />
+        <entry key="..\:/Wei/app/src/main/res/layout/zhu.xml" value="0.2947916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
